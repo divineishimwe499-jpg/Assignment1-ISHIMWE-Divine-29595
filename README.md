@@ -1,3 +1,7 @@
+[ISHIMWE DIVINE 29595 PL SQL.docx](https://github.com/user-attachments/files/32489273/ISHIMWE.DIVINE.29595.PL.SQL.docx)
 # Assignment1-ISHIMWE-Divine-29595
 assignemt_1
 In this SQL Shell practice, I use Oracle SQL Shell to create my database tables, insert data, save my changes, and run different SQL queries. First, I open SQL Shell and log in using my Oracle username and password. After I see the `SQL>` prompt, I create my tables using `CREATE TABLE`, then add records using `INSERT INTO` and save them with `COMMIT;`. After that, I use commands such as `SELECT * FROM table_name;` to view my data and `DESC table_name;` to check the structure of my tables. If I have saved all my SQL commands in a `.sql` file, I can run the complete file by typing `@filename.sql` in SQL Shell. When I finish my practice, I use `EXIT;` to close SQL Shell. This process helps me practice creating, managing, and retrieving data using SQL.
+
+
+[ISHIMWE DIVINE 29595 PL SQL.docx](https://github.com/user-attachments/files/32489323/ISHIMWE.DIVINE.29595.PL.SQL.docx)
